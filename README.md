@@ -22,6 +22,14 @@ A Spring Boot-based task management system inspired by Jira, designed to manage 
 * FeignClient
 * Gradle
 
+Key Highlights :
+Implemented Controller–Service–Repository architecture.
+Built dynamic filtering APIs using optional query parameters.
+Integrated Kafka for asynchronous event processing.
+Used Feign Client for inter-service communication.
+Enforced task visibility based on creator and assignee.
+Added workflow validation for task state transitions.
+Implemented centralized exception handling for consistent API responses.
 ## Author
 
 Divyansh Mangal
