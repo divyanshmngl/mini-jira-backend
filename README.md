@@ -19,9 +19,8 @@ A Spring Boot-based task management system inspired by Jira, designed to manage 
 * Spring Boot
 * PostgreSQL
 * Apache Kafka
-* OpenFeign
+* FeignClient
 * Gradle
-* Docker Compose
 
 ## Author
 
