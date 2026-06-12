@@ -1,4 +1,4 @@
-# Mini Jira Backend
+# Mini Jira 
 
 A Spring Boot-based task management system inspired by Jira, designed to manage tasks through swimlane workflows and event-driven notifications.
 
